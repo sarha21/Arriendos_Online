@@ -19,7 +19,7 @@ export default function Hero() {
     }}
   />
      <main className="min-h-screen">
-      <div className="container mx-auto px-4 py-12 lg:py-20">
+      <div className="container mx-auto px-4 py-5 lg:py-10">
         <div className="grid lg:grid-cols-2 gap-8 lg:gap-12 items-center">
           {/* Left Content */}
           <div className="space-y-8">
